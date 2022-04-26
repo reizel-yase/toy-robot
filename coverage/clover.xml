@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1650962170305" clover="3.2.0">
+  <project timestamp="1650962170305" name="All files">
+    <metrics statements="67" coveredstatements="67" conditionals="53" coveredconditionals="50" methods="10" coveredmethods="10" elements="130" coveredelements="127" complexity="0" loc="67" ncloc="67" packages="1" files="2" classes="2"/>
+    <file name="ToyRobot.ts" path="/Users/reizelyase/Documents/Projects/toy-robot/ToyRobot.ts">
+      <metrics statements="56" coveredstatements="56" conditionals="41" coveredconditionals="38" methods="8" coveredmethods="8"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="14" type="stmt"/>
+      <line num="8" count="14" type="stmt"/>
+      <line num="9" count="14" type="stmt"/>
+      <line num="10" count="14" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="16" type="stmt"/>
+      <line num="14" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="16" type="stmt"/>
+      <line num="16" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="16" type="stmt"/>
+      <line num="23" count="16" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="16" type="cond" truecount="1" falsecount="0"/>
+      <line num="31" count="16" type="stmt"/>
+      <line num="33" count="16" type="cond" truecount="4" falsecount="0"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="39" count="15" type="cond" truecount="5" falsecount="0"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="44" count="4" type="stmt"/>
+      <line num="45" count="4" type="stmt"/>
+      <line num="47" count="3" type="stmt"/>
+      <line num="48" count="3" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="53" count="5" type="stmt"/>
+      <line num="54" count="5" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="62" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="64" count="13" type="cond" truecount="1" falsecount="0"/>
+      <line num="65" count="13" type="stmt"/>
+      <line num="66" count="13" type="stmt"/>
+      <line num="67" count="13" type="stmt"/>
+      <line num="71" count="1" type="stmt"/>
+      <line num="72" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="74" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="75" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="78" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="80" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="83" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="87" count="1" type="stmt"/>
+      <line num="88" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="89" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="90" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="91" count="1" type="stmt"/>
+      <line num="94" count="1" type="stmt"/>
+      <line num="95" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="96" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="97" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="98" count="1" type="stmt"/>
+      <line num="101" count="1" type="stmt"/>
+      <line num="102" count="1" type="stmt"/>
+      <line num="104" count="1" type="stmt"/>
+    </file>
+    <file name="validation.ts" path="/Users/reizelyase/Documents/Projects/toy-robot/validation.ts">
+      <metrics statements="11" coveredstatements="11" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="22" type="stmt"/>
+      <line num="8" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="22" type="cond" truecount="8" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="32" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
